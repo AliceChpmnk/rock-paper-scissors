@@ -1,4 +1,4 @@
-#Project: Rock, Paper & Scissors
+## Project: Rock, Paper & Scissors
 It's a command-line application that allows you to play the popular game with AI
 
 - When started, the program shows this prompt:
