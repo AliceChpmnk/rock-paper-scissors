@@ -9,7 +9,7 @@ void main() {
     stdout.write('Rock, paper or scissors? (r/p/s) ');
     final input = stdin.readLineSync();
     if (input == 'r' || input == 'p' || input == 's') {
-      var playerMove;
+      Move playerMove;
       if (input == 'r') {
         playerMove = Move.rock;
       } else if (input == 'p') {
